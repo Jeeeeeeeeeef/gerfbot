@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Discord Bot Maker
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/682130
-Icon=steam_icon_682130
-Terminal=false
-Type=Application
-Categories=Game;
